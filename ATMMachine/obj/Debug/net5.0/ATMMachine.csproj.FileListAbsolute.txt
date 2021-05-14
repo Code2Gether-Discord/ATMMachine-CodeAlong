@@ -1,0 +1,16 @@
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.exe
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.deps.json
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.runtimeconfig.json
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.runtimeconfig.dev.json
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.dll
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ref\ATMMachine.dll
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\bin\Debug\net5.0\ATMMachine.pdb
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.csprojAssemblyReference.cache
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.AssemblyInfoInputs.cache
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.AssemblyInfo.cs
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.csproj.CoreCompileInputs.cache
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.dll
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ref\ATMMachine.dll
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.pdb
+C:\Users\Tomki\source\repos\ATMMachine\ATMMachine\obj\Debug\net5.0\ATMMachine.genruntimeconfig.cache
